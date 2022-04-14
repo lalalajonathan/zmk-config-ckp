@@ -31,7 +31,7 @@
       &kp CAPS &kp PSCRN &kp SLCK &kp PAUSE_BREAK &trans &trans &trans &kp INS &kp HOME &kp PG_UP &trans &kp UP &trans &trans
       &trans &kp C_VOL_DN &kp C_VOL_UP &kp C_MUTE &trans &trans &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp LEFT &kp RIGHT &trans
       &trans &trans &trans &trans &trans &trans &trans &kp DEL &kp END &kp PG_DN &kp DOWN &trans &trans
-      &none &trans &trans &trans &kp RALT &trans &none
+      &none &trans &trans &trans &kp RALT &none &none
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
